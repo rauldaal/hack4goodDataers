@@ -18,7 +18,11 @@ También se permitirá a los Supermercados tener acceso a la información, de ta
 
 ## Diagrama de Arquitectura
 
+Diseño para el Backend de la aplicación.
+
 ![Diseño](arch.png)
+
+Diseño de la parte de la integración de la aplicación con los supermercados y proveedores externos.
 
 ![Diseño](arch_2.png)
 
