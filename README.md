@@ -21,6 +21,7 @@ También se permitirá a los Supermercados tener acceso a la información, de ta
 ## Diagrama de Arquitectura
 
 ![Diseño](arch.png)
+![Diseño](arch2.png)
 
 
 ## Descripción Técnica
