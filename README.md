@@ -36,7 +36,7 @@ En lo que respecta al supermercado, nuestra aplicación cuenta con una API Gatew
 
 ## Documentación Completa en formato PDF
 
-![Informe](Documentación Informe Dataers.pdf)
+[Documentación Informe Dataers.pdf](https://github.com/rauldaal/hack4goodDataers/blob/main/Documentaci%C3%B3n%20Informe%20Dataers.pdf)
 
 ## Demo Vídeo (Youtube)
 
