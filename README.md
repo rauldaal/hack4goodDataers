@@ -31,6 +31,9 @@ Para hacer realidad esta idea, hemos diseñado una arquitectura de infraestructu
 
 En lo que respecta al supermercado, nuestra aplicación cuenta con una API Gateway que permite conectarnos a una API para actualizar las bases de datos de manera eficiente y segura. Tanto los supermercados como los administradores de la aplicación tendrán roles específicos para administrar las bases de datos, usuarios y las instancias EC2, lo que garantiza la seguridad y privacidad de la información. En resumen, nuestra solución busca hacer que las compras sean más fáciles y accesibles para todos, al tiempo que promueve la sostenibilidad y la eficiencia en la gestión de la información.
 
+## Documentación Completa en formato PDF
+
+
 
 ## Demo Vídeo
 
