@@ -1,7 +1,5 @@
 # Hackathon For Good: La Región de AWS en España al Servicio de la Sociedad
 
-
-
 ## Descripción del Proyecto
 
 El reto que se ha escogido es el de la ONCE.
@@ -20,11 +18,13 @@ También se permitirá a los Supermercados tener acceso a la información, de ta
 
 ## Diagrama de Arquitectura
 
+Diseño para el Backend de la aplicación.
+
 ![Diseño](arch.png)
 
+Diseño de la parte de la integración de la aplicación con los supermercados y proveedores externos.
 
-![Diseño](ARCH2.png)
-
+![Diseño](arch_2.png)
 
 ## Descripción Técnica
 
@@ -36,14 +36,14 @@ En lo que respecta al supermercado, nuestra aplicación cuenta con una API Gatew
 
 ## Documentación Completa en formato PDF
 
+![Informe](Documentación Informe Dataers.pdf)
 
+## Demo Vídeo (Youtube)
 
-## Demo Vídeo
-
-
+https://www.youtube.com/watch?v=rO2hA_1CxXg&ab_channel=SergiGarrigaMas
 
 ## Team Members
 
-Sergi Garriga Mas (segama4@gmail.com)
+Sergi Garriga Mas (garriga2002@gmail.com)
 Raül Dalgamonni Alonso (rauldalgamonnialonso@gmail.com)
  
